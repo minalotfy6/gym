@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="@style/third"
+    tools:context=".ui.coach">
+
+    <Button
+        android:id="@+id/fitnes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="450px"
+        android:layout_marginBottom="200px"
+        android:background="@drawable/default_button"
+        android:text="@string/fitness"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/building"
+        android:layout_width="139dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/default_button"
+        android:text="@string/bodybuilding"
+        android:textColor="#ffffff" />
+
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="username">user name </string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="coach">coach</string>
+    <string name="doctor">doctor</string>
+    <string name="supplements">supplements</string>
+    <string name="fitness">fitness</string>
+    <string name="bodybuilding">bodybuilding</string>
+    <string name="xtend">xtend</string>
+    <string name="price_300">price:300$$</string>
+
+</resources>
